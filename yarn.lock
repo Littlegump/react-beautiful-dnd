@@ -8012,10 +8012,10 @@ mem@^4.0.0:
     mimic-fn "^1.0.0"
     p-is-promise "^2.0.0"
 
-memoize-one@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.0.1.tgz#35a709ffb6e5f0cb79f9679a96f09ec3a35addfa"
-  integrity sha512-S3plzyksLOSF4pkf1Xlb7mA8ZRKZlgp3ebg7rULbfwPT8Ww7uZz5CbLgRKaR92GeXpsNiFbfCRWf/uOrCYIbRg==
+memoize-one@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.0.3.tgz#2f2ec6f21df48f41caa9f5e873b3dd09650d1d38"
+  integrity sha512-hSFNx1nYJZ1fUmhBa1ZNI5ZEKsWGks6yp3yX0v2hHOF7D2VJw+fRkzkoA4djB5itv+Nk0piLOelgiPPKIVBBqQ==
 
 memoizerific@^1.11.3:
   version "1.11.3"
